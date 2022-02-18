@@ -1,6 +1,8 @@
 ## 社群網路應用 預習筆記
 
-課程大綱：[社群網路應用](https://ecsa.ntcu.edu.tw/TchWeb/Cur_Teaching_Print.aspx)
+*另開 branch
+
+課程大綱：
 
 * 第01週：大數據分析簡介與應用
 * 第02週：網路爬蟲基礎實作(I)-Pandas模組
