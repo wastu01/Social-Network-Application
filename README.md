@@ -25,17 +25,6 @@
 
 ＿＿＿＿＿＿＿＿＿
 
-Week01 :
-
-大數據：
-
-上網的紀錄、搜尋紀錄、消費紀錄、觀看紀錄 >  研究與搜尋
-
-文章：
-
-[https://ithelp.ithome.com.tw/articles/10244122](https://ithelp.ithome.com.tw/articles/10244122)
-
-
 
 等待區：
 
