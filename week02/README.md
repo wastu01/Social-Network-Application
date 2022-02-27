@@ -79,6 +79,7 @@ https://finance.yahoo.com/quote/MSFT/history?p=MSFT
 https://query1.finance.yahoo.com/v7/finance/download/MSFT?period1=1614352901&period2=1645888901&interval=1d&events=history&includeAdjustedClose=true
 
 
+https://query1.finance.yahoo.com/v7/finance/download/TSM?period1=1614433498&period2=1645969498&interval=1d&events=history&includeAdjustedClose=true
 
 
 股票代號 2330 0050
