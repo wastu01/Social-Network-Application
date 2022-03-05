@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 year_df = pd.DataFrame()
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36"
-}
+}  
 
 for m in range(1, 13):
     url = "https://www.twse.com.tw/exchangeReport/STOCK_DAY?response=json&date=2021{0:02d}01&stockNo=2330".format(m)

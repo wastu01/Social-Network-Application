@@ -31,9 +31,6 @@
 [pandas](https://www.learncodewithmike.com/2020/10/python-pandas-series-tutorial.html)
 
 
-[DCARD-API](https://ithelp.ithome.com.tw/articles/10244122)
-
-
 [從dcard網站看爬蟲入門-65105f0ddac](https://medium.com/pyladies-taiwan/從dcard網站看爬蟲入門-65105f0ddac)
 
 
