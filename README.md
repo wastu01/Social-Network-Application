@@ -1,12 +1,18 @@
-## 社群網路應用 預習筆記
+# 社群網路應用 預習筆記
 
-*另開 branch
+note 整理區：
+
+> change : 課堂沒照課綱走 改用類型分資料夾
+> 覺得課堂應該要教虛擬環境建立避免污染環境
 
 課程大綱：
 
 * 第01週：大數據分析簡介與應用
 * 第02週：網路爬蟲基礎實作(I)-Pandas模組
 * 第03週：網路爬蟲基礎實作(II)-BeautifulSoup模組
+
+> 第三週 實作python 顯示全球人口分佈地圖
+
 * 第04週：網路爬蟲進階實作(I)-Python與SQLite資料庫
 * 第05週：網路爬蟲進階實作(II)-股市數據與金融資訊應用
 * 第06週：社群服務網站爬蟲應用-Dcard與Facebook
@@ -24,19 +30,12 @@
 * 第18週：期末報告
 
 ＿＿＿＿＿＿＿＿＿
-
-
 等待區：
 
 [pandas](https://www.learncodewithmike.com/2020/10/python-pandas-series-tutorial.html)
 
-
 [從dcard網站看爬蟲入門-65105f0ddac](https://medium.com/pyladies-taiwan/從dcard網站看爬蟲入門-65105f0ddac)
-
 
 [JSON Viewer](https://ithelp.ithome.com.tw/articles/10204351)
 
 [CSS Selector (選擇器)定位](https://blog.jiatool.com/posts/sorted-out-css-selector/)
-
-
-
