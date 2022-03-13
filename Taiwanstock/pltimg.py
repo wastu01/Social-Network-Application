@@ -1,6 +1,6 @@
-
 import pandas as pd
 import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif'] = ['Taipei Sans TC Beta']
 
 df = pd.read_csv("./2330_year_stock.csv", encoding="UTF-8")
 # print(df)
@@ -10,9 +10,6 @@ date = df["日期"]
 high_price = df["最高價"]
 low_price = df["最低價"]
 end_price = df["收盤價"]
-
-plt.rcParams['font.sans-serif'] = ['Taipei Sans TC Beta']
-
 
 plt.plot(date, high_price, color="#ff2121")
 plt.plot(date, low_price, color="#00bd42", linewidth=5)

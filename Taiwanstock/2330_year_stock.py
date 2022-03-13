@@ -24,5 +24,5 @@ for m in range(1, 13):
     year_df = year_df.append(month_df, ignore_index=True)
 
 print(year_df)
-year_df.to_csv("./year_stock.csv", encoding="UTF-8")
+year_df.to_csv("./2330_year_stock.csv", encoding="UTF-8")
 # FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
