@@ -4,7 +4,8 @@
 
 目的：key in 網址 設定 mkdir 解析網址儲存 all of img
 
-老師簡單帶過，沒一一解釋所有語法含義，遇到 ajax 網頁也沒說該怎麼處理 -.-  有些語法沒看過，應該要再說明如果要抓其他類型檔案該怎麼處理課程會更棒
+沒一一解釋所有語法含義再找時間查詢，遇到 ajax 網頁也沒說該怎麼處理 -.-
+課程應該要再說明如果要抓其他類型檔案該怎麼處理課程會更棒
 
 選定的是系上線上展覽網址：[學生聯展作品](https://memesgeneration.weebly.com/23416299833287923637.html)
 
@@ -97,3 +98,4 @@ realurl = urllist[0]+imgurl
 [https://www.runoob.com/python/att-string-len.html](https://www.runoob.com/python/att-string-len.html)
 [https://www.runoob.com/python/att-string-split.html](https://www.runoob.com/python/att-string-split.html)
 
+#### [Social-Network-Application 課程筆記線上檔案](https://github.com/wastu01/Social-Network-Application)
