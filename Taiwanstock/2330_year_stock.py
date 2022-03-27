@@ -21,8 +21,19 @@ for m in range(1, 13):
 
     month_df = pd.DataFrame(datas, columns=fields)
 
-    year_df = year_df.append(month_df, ignore_index=True)
+    year_df = pd.concat([year_df,month_df], axis=0,join='outer',ignore_index=None)
+    # outer 空的資料會用 NaN 代替，ignore_index = true 合併會自動產生新的序列 axis=0 直向合併
 
-print(year_df)
-year_df.to_csv("./2330_year_stock.csv", encoding="UTF-8")
-# FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+year_df.set_index("日期",inplace=True)
+
+print(year_df.tail(10))
+# 末項十筆
+
+encoding ='utf-8'
+
+
+year_df.to_csv("./2330_year_stock.csv", encoding= encoding)
+
+year_df.to_excel("./2330_year_stock.xlsx", encoding= encoding)
+
+year_df.to_html("./2330_year_stock.html")
