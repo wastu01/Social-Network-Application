@@ -2,6 +2,8 @@
 
 [https://ithelp.ithome.com.tw/articles/10236784](https://ithelp.ithome.com.tw/articles/10236784)
 
+[https://chenchenhouse.com/category/program_transaction/python/](https://chenchenhouse.com/category/program_transaction/python/)
+
 ### pipenv
 
 ```
