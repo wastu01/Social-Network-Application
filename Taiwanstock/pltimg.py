@@ -7,7 +7,7 @@ plt.rcParams.update({'font.size': 8,'font.sans-serif':'Taipei Sans TC Beta'})
 
 df = pd.read_csv("./2330_month_stock.csv",index_col="日期", encoding="UTF-8")
 # df.index = pd.to_datetime(df.index)
-# 日期轉換為 datetime 並指定為索引
+#  將日期指定為索引
 
 date = df.index 
 open_price = df["開盤價"]
