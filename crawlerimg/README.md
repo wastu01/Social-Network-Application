@@ -96,7 +96,9 @@ realurl = urllist[0]+imgurl
 ### 參考資料
 
 [https://ithelp.ithome.com.tw/articles/10218119](https://ithelp.ithome.com.tw/articles/10218119)
+
 [https://www.runoob.com/python/att-string-len.html](https://www.runoob.com/python/att-string-len.html)
+
 [https://www.runoob.com/python/att-string-split.html](https://www.runoob.com/python/att-string-split.html)
 
 #### [Social-Network-Application 課程筆記線上檔案](https://github.com/wastu01/Social-Network-Application)
