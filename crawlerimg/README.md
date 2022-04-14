@@ -75,7 +75,7 @@ url = url.rsplit('/',1); #以斜線為分割，從『後面』數來分隔一次
 
 子頁：[https://memesgeneration.weebly.com/23416299833287923637.html](https://memesgeneration.weebly.com/23416299833287923637.html)
 
-子頁圖的網址：[https://memesgeneration.weebly.com/uploads/1/2/9/6/129673037/adtxxx-jpg_orig.jpg
+子頁圖的網址：https://memesgeneration.weebly.com/uploads/1/2/9/6/129673037/adtxxx-jpg_orig.jpg
 
 src = /uploads/1/2/9/6/129673037/adtxxx-jpg_orig.jpg
 
